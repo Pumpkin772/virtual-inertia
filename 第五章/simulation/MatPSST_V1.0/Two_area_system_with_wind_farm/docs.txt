@@ -1,0 +1,1 @@
+This example shows the kundur two area system with dc and wind. The example uses the power flow calculation tool matacdc and matpower and test on matlab2016B and 2020B，The structure is shown in single_line
